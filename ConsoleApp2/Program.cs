@@ -194,6 +194,12 @@ namespace ConsoleApp2
                     case 7:
                         squarenum = square_7();
                         break;
+                    case 8:
+                        squarenum = square_8();
+                        break;
+                  
+
+            
                     
                 }
             }
