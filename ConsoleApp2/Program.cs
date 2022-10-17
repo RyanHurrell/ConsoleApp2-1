@@ -32,6 +32,7 @@ namespace ConsoleApp2
             }
             return squarenum;
         }
+        
 
         
         static public int square_2()
